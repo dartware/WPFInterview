@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+	<Color x:Key="MainFgColor">#222222</Color>
+	<SolidColorBrush x:Key="MainFg" Color="{StaticResource MainFgColor}"/>
+
+	<Color x:Key="WindowBgColor">#ffffff</Color>
+	<SolidColorBrush x:Key="WindowBg" Color="{StaticResource WindowBgColor}"/>
+
+</ResourceDictionary>
